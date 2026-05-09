@@ -1,0 +1,12 @@
+2026-04-26 18:18:44.722676 [INFO] Reserva confirmada
+2026-04-26 18:18:44.725264 [INFO] Proceso de reserva ejecutado
+2026-05-09 12:12:52.198257 [INFO] Reserva confirmada
+2026-05-09 12:12:52.200243 [INFO] Proceso de reserva ejecutado
+2026-05-09 12:13:45.949704 [INFO] Reserva confirmada
+2026-05-09 12:13:45.951938 [INFO] Proceso de reserva ejecutado
+2026-05-09 12:14:35.076375 [INFO] Reserva confirmada
+2026-05-09 12:14:35.078810 [INFO] Proceso de reserva ejecutado
+2026-05-09 12:15:20.531997 [INFO] Reserva confirmada
+2026-05-09 12:15:20.532781 [INFO] Proceso de reserva ejecutado
+2026-05-09 12:16:50.704741 [INFO] Reserva confirmada
+2026-05-09 12:16:50.707657 [INFO] Proceso de reserva ejecutado
